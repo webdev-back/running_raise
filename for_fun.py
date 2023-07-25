@@ -1,3 +1,7 @@
+"""
+This program remove a button when a user set a mouse over it.
+"""
+
 from tkinter import *
 from random import randint
 
